@@ -12,6 +12,10 @@ _my/
 _includes/_my
 _layouts/_my
 
+
+.idea/
+Gemfile.lock
+arkadianriver.com.iml
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
